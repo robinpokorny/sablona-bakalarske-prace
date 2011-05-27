@@ -15,8 +15,11 @@ Původní README
 ------------
 
 Šablona pro sazbu bakalářské práce v LaTeXu
+
 Vytvořil Martin Mareš <mj@ucw.cz> roku 2011
+
 Tento soubor je povoleno libovolně šířit, používat a upravovat.
+
 Pokud máte jakékoliv připomínky nebo návrhy na vylepšení, dejte mi prosím vědět.
 
 ---------------------------------------
